@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Play_02">
+        <circle cx="250" cy="250" r="225"/>
+        <g transform="matrix(5.38845e-17,0.88,-0.88,5.38845e-17,472.975,19.88)">
+            <path d="M251.735,149.405C253.784,145.962 257.494,143.853 261.5,143.853C265.506,143.853 269.216,145.962 271.265,149.405C292.403,184.917 342.229,268.625 363.776,304.824C365.867,308.336 365.91,312.7 363.89,316.253C361.87,319.805 358.098,322 354.012,322C311.324,322 211.676,322 168.988,322C164.902,322 161.13,319.805 159.11,316.253C157.09,312.7 157.133,308.336 159.224,304.824C180.771,268.625 230.597,184.917 251.735,149.405Z" style="fill:white;"/>
+        </g>
+    </g>
+</svg>
